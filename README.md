@@ -1,7 +1,7 @@
 <h1 align="center">Timer</h1>
 
 ## :memo: Descrição
-Cronômetro simples com JavaScrit puro.
+Cronômetro simples com JavaScript puro.
 
 ## :wrench: Tecnologias utilizadas
 <div align="left">
